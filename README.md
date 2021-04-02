@@ -50,7 +50,7 @@ I also had never worked with HBS view Engine. But that was not much of an issue.
 To get started, clone the repository and run `npm install` to install dependencies:
 
 ```
-git clone https://github.com/mattmitchell6/sa-takehome-project-node && cd sa-takehome-project-node
+git clone git@github.com:besongsamuel/sa-takehome-project-node.git
 npm install
 ```
 
