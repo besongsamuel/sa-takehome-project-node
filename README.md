@@ -2,10 +2,6 @@
 
 Complete Checkout with Stripe Charge API.
 
-## Candidate instructions
-
-You'll receive these in email.
-
 ## Application overview
 
 This demo is written in Javascript (Node.js) with the [Express framework](https://expressjs.com/).
