@@ -2,10 +2,6 @@
 
 Complete Checkout with Stripe Charge API.
 
-## Candidate instructions
-
-You'll receive these in email.
-
 ## Application overview
 
 This demo is written in Javascript (Node.js) with the [Express framework](https://expressjs.com/).
@@ -37,6 +33,7 @@ I also had never worked with HBS view Engine. But that was not much of an issue.
 - Add ability to register / login
 - Select multiple books
 - Enter the number of copies for each selection
+- Improve styling
 
 2 - From the checkout page, I would
 
